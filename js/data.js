@@ -106,7 +106,7 @@ const DEFAULT_LEARNING = [
 const DEFAULT_CONTACT = {
   email: 'mohammedabrarvk@gmail.com',
   phone: '', // Left empty by default; public view hides unconfigured phone links
-  linkedinUrl: 'https://www.linkedin.com/in/mohammed-abrar-vk',
+  linkedinUrl: 'https://www.linkedin.com/in/mohammed-abrar-vk--data-analyst',
   githubUrl: '', // Left empty by default; public view hides unconfigured github links
   location: 'Koyilandy, Kozhikode, Kerala, India',
   formEndpoint: '' // Optional backend/API endpoint for email service
